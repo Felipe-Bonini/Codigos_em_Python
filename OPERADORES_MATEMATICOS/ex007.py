@@ -1,0 +1,6 @@
+n1=int(input("Escreva um numero: "))
+print (" ")
+quad=str(n1**2)
+cub=str(n1**3)
+print ("O quadrado do seu numero é: "+quad)
+print ("O cubo do seu numero é: "+cub)

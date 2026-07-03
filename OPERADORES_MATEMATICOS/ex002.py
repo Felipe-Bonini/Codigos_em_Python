@@ -1,0 +1,6 @@
+n1=int(input("Escreva um numero: "))
+print (" ")
+mult2=str(n1*2)
+mult3=str(n1*3)
+print ("O dobro do seu numero é: "+mult2)
+print ("O triplo do seu numero é: "+mult3)
